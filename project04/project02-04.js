@@ -50,20 +50,20 @@
          }
          if (buyHalibut = true)
         {
-             cost += HALIBUT_PRICE;
+           cost += HALIBUT_PRICE;
         }
         if (buyBurger = true)
-         {
+        {
             cost += BURGER_PRICE;
-         }
-         if (buySalmon = true)
-            {
-               cost += SALMON_PRICE;
-            }
-            if (buySalad = true)
-               {
-                  cost += SALAD_PRICE;
-               }
+        }
+       if (buySalmon = true)
+       {
+          cost += SALMON_PRICE;
+       }
+       if (buySalad = true)
+        {
+           cost += SALAD_PRICE;
+        }
 
         
          //caluates tax
